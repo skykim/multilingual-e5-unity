@@ -2,7 +2,7 @@
 
 [![Unity Version](https://img.shields.io/badge/Unity-6000.0.50f1+-black.svg?style=for-the-badge&logo=unity)](https://unity.com/)
 [![Inference Engine](https://img.shields.io/badge/Inference-2.2.1-blue.svg?style=for-the-badge)](https://docs.unity3d.com/Packages/com.unity.sentis@latest)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow.svg?style=for-the-badge)](https://huggingface.co/intfloat)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow.svg?style=for-the-badge)]([https://huggingface.co/intfloat](https://huggingface.co/collections/intfloat/multilingual-e5-text-embeddings-67b2b8bb9bff40dec9fb3534))
 
 This project enables the use of [Multilingual E5](https://arxiv.org/abs/2402.05672) models within the Unity AI Inference Engine (formerly Sentis).
 
