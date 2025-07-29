@@ -21,6 +21,7 @@ Multilingual E5, proposed by Liang et al. in 2024, is a state-of-the-art multili
 
 - **Unity**: `6000.0.50f1`
 - **Inference Engine**: `2.2.1`
+- **Microsoft.ML.Tokenizers**: `2.0.0-preview`
 
 ## 🧠 Models (ONNX)
 
